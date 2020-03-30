@@ -4,3 +4,4 @@ http://sonar.cpic.tcu.gov.br/api/measures/component?component=br.gov.tcu.apps.ge
 http://sonar.cpic.tcu.gov.br/api/metrics/search
 http://sonar.cpic.tcu.gov.br/api/project_badges/measure?project=br.gov.tcu.apps.gerencial-processos:bff&metric=code_smells
 http://sonar.cpic.tcu.gov.br/api/project_badges/quality_gate?project=br.gov.tcu.apps.gerencial-processos:bff
+http://sonar.cpic.tcu.gov.br/api/issues/search?componentKeys=br.gov.tcu.apps.gerencial-processos:bff
