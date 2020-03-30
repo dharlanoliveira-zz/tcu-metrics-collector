@@ -1,0 +1,5 @@
+Sonar endpoints
+
+http://sonar.cpic.tcu.gov.br/api/measures/component?component=br.gov.tcu.apps.gerencial-processos:bff&metricKeys=ncloc,complexity,violations,files,sqale_rating,blocker_violations,code_smells,class_complexity,function_complexity,coverage,duplicated_blocks,effort_to_reach_maintainability_rating_a,file_complexity_distribution,new_maintainability_rating,new_blocker_violations,new_code_smells,new_critical_violations,new_major_violations,new_vulnerabilities,quality_profiles,quality_gate_details,reliability_rating,security_rating,new_security_rating,security_remediation_effort,skipped_tests,team_size,sqale_debt_ratio
+http://sonar.cpic.tcu.gov.br/api/metrics/search
+http://sonar.cpic.tcu.gov.br/api/project_badges/measure?project=br.gov.tcu.apps.gerencial-processos:bff&metric=code_smells
