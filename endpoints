@@ -17,3 +17,6 @@ http://sonar.cpic.tcu.gov.br/api/project_badges/measure?project=br.gov.tcu.apps.
 http://sonar.cpic.tcu.gov.br/api/project_badges/measure?project=br.gov.tcu.apps.gerencial-processos:bff&metric=bugs
 http://sonar.cpic.tcu.gov.br/api/project_badges/measure?project=br.gov.tcu.apps.gerencial-processos:bff&metric=code_smells
 http://sonar.cpic.tcu.gov.br/api/project_badges/measure?project=br.gov.tcu.apps.gerencial-processos:bff&metric=security_rating
+
+GIT
+http://line-count.producao.rancher.tcu.gov.br/sti/gerencial-processos/commits?autores=x03380745111,x03829983166,X07346359666&datainicio=2019-11-21&datafim=2020-01-20

@@ -1,6 +1,5 @@
 import requests
 import json
-from jsonpath_ng import parse
 
 
 def get_sonar_metrics_on_date(project, metrics, reference_date):
