@@ -11,4 +11,4 @@ def get_loc_git_date_range(project, developers, init_date, end_date):
         locs = re.findall("([xX][0-9]{11}): ([0-9]*)", str(r.content))
         for user, loc in locs:
             metrics[user] = int(loc)
-    return metrics
+    return {'endpoint': url, 'metrics': metrics}
